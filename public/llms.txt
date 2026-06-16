@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-65572910.zappy5.app
+https://example.com
 חנות מובילה למארזים אישיים בהתאמה מושלמת. אנו יוצרים אריזות יוקרתיות וקופסאות ממותגות שמותאמות בדיוק לצרכים שלך, בין אם לעסק או לאירוע מיוחד. הפוך כל פתיחה לחוויה בלתי נשכחת. הזמן עכשיו!
 
 ### תהליך מותאם
-https://-65572910.zappy5.app/custom-process
+https://example.com/custom-process
 גלה את תהליך העבודה הייחודי ליצירת מארזים אישיים. משלב האפיון והעיצוב ועד למוצר המוגמר, אנו מלווים אותך צעד אחר צעד ליצירת אריזת קומרס מותאמת אישית שתכבוש את הלקוחות. התחל לעצב איתנו!
 
 ### אודות
-https://-65572910.zappy5.app/about
+https://example.com/about
 הכירו את הסיפור של &#39;מארזים אישיים&#39; – מומחים באריזות יוקרתיות בהתאמה אישית. אנו משלבים תשוקה לעיצוב עם דיוק בייצור כדי לספק פתרונות custom packaging for ecommerce שמשדרגים כל מותג. בואו להכיר את הצוות שמאחורי היצירה.
 
 ### צור קשר
-https://-65572910.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את הרעיון למארז אישי ומרשים? צרו קשר עוד היום עם &#39;מארזים אישיים&#39; לקבלת ייעוץ חינם והצעת מחיר לפתרונות custom ecommerce packaging. הצוות שלנו כאן כדי להקשיב, לייעץ ולהגשים. שלח הודעה עכשיו!
 
 ### Products
-https://-65572910.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מארזים אישיים
 
 ### Cart
-https://-65572910.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-65572910.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-65572910.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-65572910.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-65572910.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-65572910.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מארזים אישיים
 
 ### Category
-https://-65572910.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מארזים אישיים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-65572910.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-65572910.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-65572910.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ E-commerce / Custom Packaging
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-65572910.zappy5.app/sitemap.xml
-- Robots: https://-65572910.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-65572910.zappy5.app/llms-full.txt
-- Products (JSON): https://-65572910.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-65572910.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
